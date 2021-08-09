@@ -7,12 +7,6 @@ interface WidgetRealizationInterface
     public function getDescription();
 }
 
-interface WidgetAbstractionInterface
-{
-    public function getView();
-}
-
-
 
 class User
 {
